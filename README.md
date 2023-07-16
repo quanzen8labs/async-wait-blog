@@ -88,7 +88,7 @@ func executeTasks() async {
 
  Swift's async sequences allow you to work with a stream of values asynchronously. You can use AsyncSequence and AsyncIteratorProtocol to iterate over asynchronous sequences, opening up new possibilities for working with data streams.
  
- ```
+ ```swift
  struct DataStream: AsyncSequence {
     typealias Element = Int
     
