@@ -184,7 +184,7 @@ Concurrency is a fundamental aspect of modern application development, and async
 
 Happy mastering!
 
-##About Zen8labs
+## About Zen8labs
 
 Zen8Labs adopts cutting-edge technology practices and tools to ensure alignment of winning business solutions and impactful optimization. A wealth of experience driving efficiencies and innovation allows us to bring that perspective into executing strategic outcomes and building high-performing delivery capability.
 
